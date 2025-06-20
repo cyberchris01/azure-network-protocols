@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://imgur.com/wYucC7L.png" alt="osTicket logo"/>
-</p>
+![azurec](https://github.com/user-attachments/assets/a34bfec8-967e-4c13-817e-7e6d41fa0b3a)
 
 <p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
