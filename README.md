@@ -1,4 +1,4 @@
-![azurevmsc](https://github.com/user-attachments/assets/ce1ddb1a-9b12-404a-8968-a96f7b2195c5)
+![vmsinazurec](https://github.com/user-attachments/assets/07056168-0e3b-45d2-b6cc-b0ffd9bb9775)
 
 <h1>Network Security Groups (NSGs) & Inspecting Traffic Between Azure Virtual Machines</h1>
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
