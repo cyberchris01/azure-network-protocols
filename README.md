@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://imgur.com/wYucC7L.png" alt="osTicket logo"/>
+</p>
+
+<p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
